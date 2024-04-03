@@ -1,4 +1,4 @@
-package org.example;
+package org.crawler;
 
 import java.io.IOException;
 import java.util.ArrayList;
